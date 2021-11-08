@@ -1,1 +1,2 @@
 Hello World!!!
+I'm newbie in Git. It's a great idea to help me ;)
