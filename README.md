@@ -1,5 +1,5 @@
 # first_git_repo
-Repository in educational pupposes
+Repository in educational purposes
 
 It's just my first repo created in educational purposes.
 
